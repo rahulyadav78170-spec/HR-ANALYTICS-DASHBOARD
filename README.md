@@ -2,7 +2,7 @@
 
 📊 Dashboard Preview
 
-(Dashboard_screenshot.png)
+![Dashboard Preview](Dashboard_screenshot.png)
 
 📌 Project Overview
 
